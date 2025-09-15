@@ -29,7 +29,7 @@ This project applies **unsupervised machine learning (K-Means)** on simulated Am
 - Jupyter Notebook
 
 ## 📈 Visualization Example
-![Cluster Plot](results/segment_summary.png)
+![Cluster Plot](https://www.linkedin.com/feed/update/urn:li:activity:7373253622870028288/)
 
 ## 🔑 Next Steps
 - Deploy pilot campaigns.
